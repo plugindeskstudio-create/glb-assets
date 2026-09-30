@@ -1,5 +1,7 @@
 {
-  "Household": [],
+  "Household": [{ name: "Sheen Chair", path: "presets/SheenChair.glb", thumb: "icon/sheenchair.png", type: "chair" },
+  
+],
   "Plants & Nature": [],
   "Electronics": [],
   "HDRI Maps": []
